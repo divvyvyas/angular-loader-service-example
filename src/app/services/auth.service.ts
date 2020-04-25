@@ -9,7 +9,7 @@ export class AuthService {
   public currentUserSubject: BehaviorSubject<any> = null;
 
   constructor() {
-    // Implement Auth Login Inside Constructor Only
+    // Implement Auto Login Inside Constructor Only
   }
 
   login(){
